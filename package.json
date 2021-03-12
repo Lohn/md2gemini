@@ -1,0 +1,10 @@
+{
+"name": "md2gemini",
+"version": "0.0.1",
+"description": "Bash compatible AWK script to convert Markdown files to Gemini Capsules",
+"global": "false",
+"install": "install bin/md2gemini.awk /usr/local/bin/md2gemini",
+"scripts": [
+"bin/md2gemini.awk"
+]
+}
